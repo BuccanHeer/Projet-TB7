@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1489580944 source:c:\users\valerie\documents\projet tb7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"token.h"
+	"analyselexic.h"
+
+1489569026 c:\users\valerie\documents\projet tb7\token.h
+
+1489573642 c:\users\valerie\documents\projet tb7\analyselexic.h
+	"analyselexic.c"
+	"token.h"
+
+1489581181 c:\users\valerie\documents\projet tb7\analyselexic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"token.h"
+	"analyselexic.h"
+
