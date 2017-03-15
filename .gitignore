@@ -2,6 +2,11 @@
 Thumbs.db
 ehthumbs.db
 
+bin/
+obj/
+
+Projet TB7*
+
 # Folder config file
 Desktop.ini
 
@@ -45,3 +50,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
